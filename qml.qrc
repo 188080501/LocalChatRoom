@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Doorplate.qml</file>
+        <file>Room.qml</file>
+        <file>SettingsPage.qml</file>
+    </qresource>
+</RCC>
